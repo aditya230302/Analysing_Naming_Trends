@@ -2,8 +2,7 @@
 
 ## **Dataset Information:**
 
-- Popular baby names data provided by the Social Security Administration (SSA)
-of the United States.
+- Popular baby names data provided by the Social Security Administration (SSA) of the United States. Go to https://www.ssa.gov/oact/babynames/limits.html
 - The dataset is in zipped format. We have to extract the dataset in the program,
 visualize the number of male and female babies born in a particular year, and
 find out popular baby names.
